@@ -1,22 +1,34 @@
 # Welcome to My Portfolio
 
 ## About Me
-Hello! I'm **Shrey**, a passionate developer with interests in web development, data science, and open-source projects.
+Hello! I'm **Shrey**, a passionate developer with expertise in web development, data science, and open-source contributions.
 
 ## Education
-| Degree           | Institution               | Year       |
-|-------------------|---------------------------|------------|
-| B.Sc. in CS       | Example University        | 2024       |
-| High School       | Example High School       | 2020       |
+| Degree             | Institution          | Year       |
+|---------------------|----------------------|------------|
+| B.Sc. in CS         | MNIT Jaipur         | 2024       |
+| High School         | Example School      | 2020       |
 
 ## Skills
-- **Languages**: Python, JavaScript, C++
-- **Tools**: Git, VS Code, Jupyter Notebook
+- **Programming Languages**: Python, JavaScript, C++
+- **Tools**: Git, GitHub, VS Code, Jupyter Notebook
+- **Frameworks**: React, Flask
 
 ## Projects
-- **[Project 1](https://github.com/Shrey819/Project1)**: Brief description.
-- **[Project 2](https://github.com/Shrey819/Project2)**: Another project description.
+- **[GitHub Pages Portfolio](https://github.com/Shrey819/Shrey819.github.io)**: This project showcases my personal website using GitHub Pages.
+- **[Weather App](https://github.com/Shrey819/weather-app)**: A simple web app to display weather forecasts for any location.
+- **[Task Tracker](https://github.com/Shrey819/task-tracker)**: A project management tool built with React and Firebase.
 
 ## Contact Me
-- **Email**: shrey@example.com
+- **Email**: 2023ucp1969@mnit.ac.in
 - **GitHub**: [github.com/Shrey819](https://github.com/Shrey819)
+
+---
+
+### **2. `_config.yml` Content**
+(Optional) To customize the look of your site, use this configuration file. Save this as `_config.yml`:
+
+```yml
+theme: minima
+title: Shrey's Portfolio
+description: Welcome to my personal portfolio website!

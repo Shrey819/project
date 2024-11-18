@@ -3,7 +3,7 @@
 ## About Me
 Hi, I'm **Shrey**, a passionate developer with expertise in web development, data science, and more.
 
-![Profile Image](https://via.placeholder.com/200x200)  
+![Profile Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.autocarindia.com%2Fauto-images%2F2020-tvs-apache-rtr-200-4v-image-gallery-415214&psig=AOvVaw0u29lJrJCis9sP_FZ8DR4B&ust=1732011047854000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLj5ppDS5YkDFQAAAAAdAAAAABAE)  
 *Caption: This is a placeholder image. Replace it with your photo or logo.*
 
 ---
@@ -16,7 +16,7 @@ Hi, I'm **Shrey**, a passionate developer with expertise in web development, dat
 
 ---
 <p align="center">
-  <img src="https://via.placeholder.com/800x300" alt="Portfolio Preview">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Findianexpress.com%2Farticle%2Ftechnology%2Ftech-reviews%2Fhonor-200-pro-review-9484207%2F&psig=AOvVaw0u29lJrJCis9sP_FZ8DR4B&ust=1732011047854000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLj5ppDS5YkDFQAAAAAdAAAAABAJ" alt="Portfolio Preview">
 </p>
 
 ## Skills

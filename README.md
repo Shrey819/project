@@ -15,6 +15,9 @@ Hi, I'm **Shrey**, a passionate developer with expertise in web development, dat
 | High School          | Example School         | 2020     |
 
 ---
+<p align="center">
+  <img src="https://via.placeholder.com/800x300" alt="Portfolio Preview">
+</p>
 
 ## Skills
 Here are some of my top technical skills:
